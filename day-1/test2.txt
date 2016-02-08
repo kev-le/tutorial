@@ -1,6 +1,2 @@
-bbbbb
-
-BBBBBBBB
-second letter of the laphabet
-bbbbbbbbbbb
-b
+cc
+c
